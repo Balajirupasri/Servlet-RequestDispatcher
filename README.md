@@ -43,9 +43,3 @@ SqServlet
 Displays Result
 ```
 
-## 📚 Concepts Covered
-- RequestDispatcher
-- Servlet Communication
-- HttpServletRequest
-- HttpServletResponse
-- Request Attributes
